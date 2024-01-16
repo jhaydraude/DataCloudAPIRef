@@ -9,6 +9,8 @@ This is in no way intended to be production code. It is a step by step walkthrou
 
 The samples are bash scripts using cUrl with tokens stored in environment variables.
 
+For more information on the Data Cloud Ingestion API, refer to the [Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_api_get_started.htm) and the [Data Cloud Help Docs](https://help.salesforce.com/s/articleView?id=sf.c360_a_connect_an_ingestion_source.htm&type=5)
+
 ## Installation
 
 
