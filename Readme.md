@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repo detailed step by step walkthroughs of using the Data Cloud Ingestion API. It is meant as a [companion to this guide]( 
+This repo contains detailed step by step walkthroughs of using the Data Cloud Ingestion API. It is meant as a [companion to this guide]( 
 https://salesforce.quip.com/daYKA7Iw9MfB)
 
 This is in no way intended to be production code. It is a step by step walkthrough of the necessary calls to use the Data Cloud Ingestion API for the purposes of training and education.
