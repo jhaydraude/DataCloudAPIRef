@@ -1,0 +1,17 @@
+{"data": [{
+    "customer_id": 100000000,
+    "email": "khildreth.10000.0000@gmail.marketingclouddemo.com",
+    "first_name": "Kennith",
+    "last_name": "Hildreth",
+    "dob": "1991-10-19",
+    "outdoor_interest": "Camping"
+},
+{
+    "customer_id": 100000001,
+    "email": "jreiter.10000.0001@gmail.marketingclouddemo.com",
+    "first_name": "Jonnie",
+    "last_name": "Reiter",
+    "dob": "1961-05-13",
+    "outdoor_interest": "Training"
+}
+]}

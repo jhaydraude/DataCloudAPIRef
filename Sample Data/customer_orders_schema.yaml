@@ -1,0 +1,59 @@
+openapi: 3.0.3
+components:
+  schemas:
+    customers:
+      type: object
+      properties:
+        customer_id:
+          type: number
+        email:
+          type: string
+        first_name:
+          type: string
+        last_name:
+          type: string
+        dob: 
+          type: string
+          format: date 
+        outdoor_interest:
+          type: string
+    order_headers:
+      type: object
+      properties:
+        customer_id:
+          type: number
+        delivery_method:
+          type: string
+        loyalty_points_accrued:
+          type: number
+        order_date:
+          type: string
+          format: date-time
+        order_number:
+          type: string
+        status:
+          type: string
+        store_number:
+          type: string
+        total_amount:
+          type: number
+    order_items:
+      type: object
+      properties:
+        order_line_number:
+          type: number
+        order_number:
+          type: number
+        loyalty_points:
+          type: number
+        quantity:
+          type: number
+        related_activity:
+          type: string
+        sku:
+          type: number
+        sub_total:
+          type: number
+        unit_price:
+          type: number
+        
